@@ -89,7 +89,7 @@ public class AddStoryActivity extends AppCompatActivity {
                                 .child(myid);
 
                         String storyid = reference.push().getKey();
-                        long timeend = System.currentTimeMillis()+86400000; // 1 day later
+                        long timeend = System.currentTimeMillis()+600000; // 10 minutes later
 
                         HashMap<String, Object> hashMap = new HashMap<>();
                         hashMap.put("imageurl", miUrlOk);

@@ -26,7 +26,7 @@ public class ChatActivity extends AppCompatActivity {
 
         toolbar = findViewById(R.id.ChatActivity_toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Instagram");
+        getSupportActionBar().setTitle("We Connect");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         viewPager = findViewById(R.id.ChatActivity_mainTabPager);
