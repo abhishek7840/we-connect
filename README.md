@@ -18,4 +18,7 @@ FEATURES→
 • Delete
 • Delete Story
 • Offline Capability
+
+
+
 https://user-images.githubusercontent.com/128141653/230122298-49718265-5dca-4aa7-a587-078f4cd34119.mp4
